@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2023-01-23T13:31:54.946402976</meta:creation-date><dc:date>2023-01-24T19:05:09.077956203</dc:date><meta:editing-duration>PT13H39S</meta:editing-duration><meta:editing-cycles>56</meta:editing-cycles><meta:generator>LibreOffice/7.4.2.3$Linux_X86_64 LibreOffice_project/40$Build-3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="105" meta:word-count="1597" meta:character-count="14809" meta:non-whitespace-character-count="13314"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">169282</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">24728</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22602</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16616</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">199189</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">169282</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">24726</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">191883</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="HideWhitespace" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="WordLikeWrapForAsCharFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AutoFirstLineIndentDisregardLineSpace" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">5427173</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1247273</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans Devanagari" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Noto Sans Devanagari1" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="5" loext:hyphenation-zone="no-limit"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:language="zxx" fo:country="none" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="28pt" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Index_20_Heading" style:display-name="Index Heading" style:family="paragraph" style:parent-style-name="Heading" style:class="index">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_Heading" style:display-name="Contents Heading" style:family="paragraph" style:parent-style-name="Index_20_Heading" style:class="index">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_1" style:display-name="Contents 1" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="6.6929in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.139in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.0972in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_2" style:display-name="Contents 2" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.1965in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="6.4965in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Contents_20_3" style:display-name="Contents 3" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.3937in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="6.2992in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="List_20_Contents" style:display-name="List Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="0.3937in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Index_20_Link" style:display-name="Index Link" style:family="text"/>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Visited_20_Internet_20_Link" style:display-name="Visited Internet Link" style:family="text">
+   <style:text-properties fo:color="#800000" loext:opacity="100%" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" text:citation-style-name="Endnote_20_Symbol" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00130829" officeooo:paragraph-rsid="00130829"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="00130829" officeooo:paragraph-rsid="00130829"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0014c38a" officeooo:paragraph-rsid="0014c38a"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00158e55" officeooo:paragraph-rsid="00158e55"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0015a94d" officeooo:paragraph-rsid="0015a94d"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0018b56a" officeooo:paragraph-rsid="0018b56a"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001a9b8e" officeooo:paragraph-rsid="001a9b8e"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001aee76" officeooo:paragraph-rsid="001aee76"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001caa24" officeooo:paragraph-rsid="001caa24"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001caa24" officeooo:paragraph-rsid="00216d1a"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001e594f" officeooo:paragraph-rsid="001e594f"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001eec11" officeooo:paragraph-rsid="001eec11"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001eec11" officeooo:paragraph-rsid="00216d1a"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001ef95d" officeooo:paragraph-rsid="001ef95d"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0020da43" officeooo:paragraph-rsid="0020da43"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0023d402" officeooo:paragraph-rsid="0023d402"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="002439d8" officeooo:paragraph-rsid="002439d8"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00255ff9" officeooo:paragraph-rsid="00255ff9"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00255ff9" officeooo:paragraph-rsid="00272f7c"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00272f7c" officeooo:paragraph-rsid="00272f7c"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0029a27c" officeooo:paragraph-rsid="0029a27c"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Contents_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="6.6929in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="6.4965in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Contents_20_3">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="6.2992in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0038c1e9"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00272f7c" officeooo:paragraph-rsid="00272f7c"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00255ff9" officeooo:paragraph-rsid="00255ff9"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00316809" officeooo:paragraph-rsid="00316809"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0036d023" officeooo:paragraph-rsid="003c6e52"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0038c1e9" officeooo:paragraph-rsid="0038c1e9"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="003da4c1" officeooo:paragraph-rsid="003c6e52"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="003f950a" officeooo:paragraph-rsid="003f950a"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="004161c7" officeooo:paragraph-rsid="004161c7"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="004183bf" officeooo:paragraph-rsid="004a7a12"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0043d860" officeooo:paragraph-rsid="004a7a12"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="004593f5" officeooo:paragraph-rsid="004593f5"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="004a7a12" officeooo:paragraph-rsid="001aee76"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="004a7a12" officeooo:paragraph-rsid="004a7a12"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0015a94d" officeooo:paragraph-rsid="0015a94d"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="004af583" officeooo:paragraph-rsid="004af583"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="005272c4" officeooo:paragraph-rsid="005272c4"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="00158e55"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="001798f0"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="00179f32"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="001caa24"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="001eec11"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="001ef95d"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="0020da43"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties officeooo:rsid="00216d1a"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties officeooo:rsid="0021f7b6"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties officeooo:rsid="0023d402"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties officeooo:rsid="00250f95"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties officeooo:rsid="00272f7c"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties officeooo:rsid="00291a90"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties officeooo:rsid="002b47a5"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties officeooo:rsid="002c4821"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties officeooo:rsid="002f2919"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties officeooo:rsid="002f82f2"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties officeooo:rsid="003098bd"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties officeooo:rsid="00353cb7"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties officeooo:rsid="0038c1e9"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties officeooo:rsid="003c6e52"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties officeooo:rsid="003cd8bd"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties officeooo:rsid="004380f0"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties officeooo:rsid="00449216"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties officeooo:rsid="00465c07"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties officeooo:rsid="00483ad9"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties officeooo:rsid="004a3033"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties officeooo:rsid="004be588"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties officeooo:rsid="00511cff"/>
+  </style:style>
+  <style:style style:name="Sect1" style:family="section">
+   <style:section-properties style:editable="false">
+    <style:columns fo:column-count="1" fo:column-gap="0in"/>
+   </style:section-properties>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Title"/>
+   <text:p text:style-name="Title"/>
+   <text:p text:style-name="Title"/>
+   <text:p text:style-name="Title"/>
+   <text:p text:style-name="Title"/>
+   <text:p text:style-name="Title"/>
+   <text:p text:style-name="Title"><text:span text:style-name="T27">Omavaraistilojen Verkoston</text:span> Käsikirja</text:p>
+   <text:p text:style-name="Subtitle">1. painos – Tammikuussa 2023</text:p>
+   <text:p text:style-name="P2"><text:span text:style-name="T29">omavaraistilat</text:span>.fi</text:p>
+   <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
+    <text:table-of-content-source text:outline-level="10">
+     <text:index-title-template text:style-name="Contents_20_Heading">Table of Contents</text:index-title-template>
+     <text:table-of-content-entry-template text:outline-level="1" text:style-name="Contents_20_1">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="2" text:style-name="Contents_20_2">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="3" text:style-name="Contents_20_3">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="4" text:style-name="Contents_20_4">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="5" text:style-name="Contents_20_5">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="6" text:style-name="Contents_20_6">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="7" text:style-name="Contents_20_7">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="8" text:style-name="Contents_20_8">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="9" text:style-name="Contents_20_9">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="10" text:style-name="Contents_20_10">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+    </text:table-of-content-source>
+    <text:index-body>
+     <text:index-title text:style-name="Sect1" text:name="Table of Contents1_Head">
+      <text:p text:style-name="P25">Table of Contents</text:p>
+     </text:index-title>
+     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc109_4140937384" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Visio<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc111_4140937384" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Alkusanat<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc113_4140937384" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Paremman Suomen suunnitelma<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P23"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc118_4140937384" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Ensimmäinen vaihe: Yhteisöjen ja yksikköjen perustaminen<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc120_4140937384" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Mikä on yhteisö?<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc122_4140937384" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Mikä on yksikkö?<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc124_4140937384" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Mikä on yhteyshenkilö?<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc126_4140937384" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Omavaraisyhteisöön muuttaminen<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc128_4140937384" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Kandidaatin kriteerit<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc301_2915604760" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Tilojen hankkiminen<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P23"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc118_41409373841" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Toinen vaihe: Poliittinen vaikuttaminen<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P23"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc118_41409373842" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Kolmas vaihe: Taloudellinen yhteistyö<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc303_2915604760" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Yhteisön talous ja johtaminen<text:tab/>6</text:a></text:p>
+    </text:index-body>
+   </text:table-of-content>
+   <text:p text:style-name="P1"/>
+   <text:h text:style-name="P26" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc109_4140937384"/>Visio<text:bookmark-end text:name="__RefHeading___Toc109_4140937384"/></text:h>
+   <text:p text:style-name="P1"><text:span text:style-name="T27">Omavaraistilojen verkosto</text:span> on tulevaisuuden kansallismielisten ja biodynaamisten omavaraisyhteisöjen verkosto, joka mahdollistaa jäsenilleen mahdollisuuden elää luonnonmukaista elämää, <text:span text:style-name="T9">sekä varjella </text:span><text:span text:style-name="T26">Suomalaista</text:span><text:span text:style-name="T9"> kulttuuria ja perinteitä.</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc111_4140937384"/>Alkusanat<text:bookmark-end text:name="__RefHeading___Toc111_4140937384"/></text:h>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Tarve elää hyvää elämää, totuudessa ja rakkaudessa on kaikille ihmisille perimmäinen unelma. Jokaisella meista on tarve löytää oma itsemme ja meidän oma paikkamme yhteisössämme. Meillä kaikilla on tarve kokea olevamme osa jotain suurempaa. Meillä kaikilla on tarve huolehtia perheestämme, ystävistämme, suvustamme ja heimostamme.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Nykyinen luonnollisen elämän vastainen yhteiskunta ei mahdollista hyvää elämää.</text:p>
+   <text:p text:style-name="P1">Kun monimutkaiset lainkoukerot mahdollistavat väärän muuttamisen oikeaksi.</text:p>
+   <text:p text:style-name="P4">Kun meidän perustuslaillisia oikeuksia räikeästi rikotaan omien päättäjiemme ja perustuslakivaliokunnan toimesta, ja kun säädetään selkeästi perustuslain vastaisia lakeja ja asetuksia.</text:p>
+   <text:p text:style-name="P1">Kun monikulttuurisuuspropaganda ei enää pysty peittelemään monikulttuurisuuden yhteiskuntaamme myrkyttävää vaikutusta.</text:p>
+   <text:p text:style-name="P1">Kun suvaitsevaisuus-, sekä vapaan seksuaalisuuden propaganda ovat aiheuttanut lukuisten avioliitojen murentumisen ja ydinperheelle haitalliset ajatukset ja toimintatavat ovat saaneet jo lain suojan.</text:p>
+   <text:p text:style-name="P1">Kun maailman luonnollisin asia, kuten sukupuoli, korruptoidaan vihamielisen ulkoa tulleen agendaohjauksen pelinappulaksi, tavoitteena tuhota rehellisiä, rohkeita ja terveitä lapsia vaaliva ydinperhe.</text:p>
+   <text:p text:style-name="P3">Kun suvaitsemme transupropagandan tuputtamisen räikeästi meikattujen miesten toimesta yhteiskunnan pienimmille, tietäemme sydämessämme tämän olevan väärin.</text:p>
+   <text:p text:style-name="P1">Kun ydinperhe rikotaan pakottamalla molemmat puolisot kodin ulkopuoliseen velkaoravanpyörään, ihannoimalla oravanpyörää elämän ainoana merkityksenä ja oman arvon tuottajana, vaikka tiedetään hyvin tämän heikentävän perheiden sisäistä onnellisuutta.</text:p>
+   <text:p text:style-name="P1">Kun emme kunnioita enää omia maanmiehiämme, vaan mielummin korvaamme heidät ulkomaisella työvoimalla, tekemä<text:span text:style-name="T27">ä</text:span>n laillistettua orjatyötä, laillisessa ilmapiirissä, joka tukahduttaa rehellisen yrittämisen.</text:p>
+   <text:p text:style-name="P1">Kun emme kunnioita omia maanmiehiämme sen vertaa, että suvaitsemme mielummin maapallon toiselta puolelta tulevan epäluonnollisen seksuaalisen suuntautumisensa puolesta turvapaikkaa hakevan muukalaisen elättämisen, kuin että auttaisimme moninkertaista määrää nälkää ja hätää näkeviä omia heimolaisiamme.</text:p>
+   <text:p text:style-name="P3">Kun meidän omat päättäjämme myyvät maamme ulkomaalaisille monikansallisille sijoittajayhtiöille, aiheuttaen köyhyyttä meidän lapsillemme ja heidän lastenlapsillensa.</text:p>
+   <text:p text:style-name="P3">Kun Suomen ja EU:n päättäjät pohtivat omavaraisuuden tuhoamista monimutkaisella ja sietämättömällä laki-, sekä tukiviidakolla.</text:p>
+   <text:p text:style-name="P4">Kun poliittisesti värittyneen, totuutta hylkivän, koulutusjärjestelmän uhri, supisuomalainen nuori, ei osaa nimetä yhtään mitään hyvää asiaa Suomesta, vaan haikailee enonsa tilalle Espanjaan.</text:p>
+   <text:p text:style-name="P4">Kun ruoka mitä kaupasta saamme <text:span text:style-name="T3">käsittää</text:span> enemmän ja enemmän maapalloa tuhoavia luonnottomia lajikkeita, sekä erilaisia kemikaaleja ja myrkkyjä, jotka vaikuttavat haitallisesti meidän henkisiin ominaisuuksiimme.</text:p>
+   <text:p text:style-name="P5">Kun asuminen on niin kallista, että nuorella parilla ei ole mahdollisuutta koskaan ostaa omaa asuntoa, tai koskaan vapautua asuntolainaloukustaan, tai vuokra vie kohtuuttoman osan <text:soft-page-break/>käytettävissä olevasta vauraudesta, eikä elämään jää mitään muuta kuin jatkuva raataminen lainanlyhennysten ja vuokran maksun perässä.</text:p>
+   <text:p text:style-name="P5">Kun talon ja palveluiden ostaminen on politiikalla tehty niin kalliiksi, että lääkärinkin kannattaa mielummin lennättää intialainen työmies Suomeen tekemään remontit, kuin palkata paikallinen ammattilainen, johon koko asiantuntiayhteiskuntamme vaurauden kasvu perustuu.</text:p>
+   <text:p text:style-name="P42">Kun ruoan hinta jatkaa nousemistaan, voittojen valuessa muualle kuin itse tuottajalle, samalla kun ennätysmäärä Suomalaisia maatiloja ajautuu konkurssiin tai päättävät lopettaa toiminnan kannattamattomana.</text:p>
+   <text:p text:style-name="P42">Kun sähköverkkojen kansallinen tuotanto joutuu EU-tason pörssimarkkinoiden keplottelun kohteeksi ja tavallisella kuluttajalla ei ole enää mahdollisuutta lämmittää talojaan.</text:p>
+   <text:p text:style-name="P3">Ei rehellisellä kansallismielisellä jää muuta vaihtoehtoa, kuin etsiä ratkaisuja hyvän elämän elämiseen kaiken tämän globaalista ohjauksesta valuvan mädättämisen ulkopuolelta, <text:span text:style-name="T1">sekä</text:span></text:p>
+   <text:p text:style-name="P4">suojella meidän lapsiamme tältä epäluonnollisen luonnolliseksi tekemiseltä.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4">Tästä täydellisestä luottamuksen menettämisestä päättäjiämme, koulutusjärjestelmäämme sekä lainmukaista kohtelua kohtaan, tahdomme nousta sen yläpuolelle ja elää hyvää ja luonnollista elämää. <text:span text:style-name="T2">Tuottaa itse omat rakennuksemme, ruokamme, sähkömme, vetemme ja lämpömme, ja jättää globalistit nuolemaan näppejään voittohanojen tyrehtyessä, kun yhä useampi herää ja hylkää modernin yhteiskunnan hulluuden ja liittyy omavaraisyhteisöihin ympäri maailman.</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P6">On aika rakentaa uusi parempi Suomi.</text:p>
+   <text:p text:style-name="P6"/>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc113_4140937384"/>Paremman Suomen suunnitelma<text:bookmark-end text:name="__RefHeading___Toc113_4140937384"/></text:h>
+   <text:p text:style-name="P7"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc118_4140937384"/>Ensimmäinen vaihe: Yhteisöjen ja yksikköjen perustaminen<text:bookmark-end text:name="__RefHeading___Toc118_4140937384"/></text:h>
+   <text:p text:style-name="P39"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc120_4140937384"/>Mikä on yhteisö?<text:bookmark-end text:name="__RefHeading___Toc120_4140937384"/></text:h>
+   <text:p text:style-name="P8">Yhteisö on mikä vaan paikka, missä asuu vähintään 12 tervettä ja toimintakykyistä aikuista. <text:span text:style-name="T4">15 minuutin kävelymatkan päässä toisistaan, </text:span><text:span text:style-name="T6">omavaraisverkoston määrittelemällä uudisasutusalueella.</text:span></text:p>
+   <text:p text:style-name="P9">Yhteisön jäsenet tapaavat säännöllisesti ja viettävät <text:span text:style-name="T5">yhdessä </text:span>aikaa, samassa fyysisessä tilassa.</text:p>
+   <text:p text:style-name="P12">Yhteisössä on huolehdittava, että jokaisella on myös omaa henkilökohtaista tilaa ja aikaa, sekä mahdollisuus olla yksin.</text:p>
+   <text:p text:style-name="P9">Yhteisön jäsenet tukevat toisiaan yhteisön yhteisten tavoitteiden edistämiseksi.</text:p>
+   <text:p text:style-name="P9">Yhteisön jäsenillä on selkeä viikko-, kuukausi-, ja vuosikalenteri yhteisön tehtävien hoitamiseksi, sekä viikko-, kuukausi-, sekä vuositapaamiset yhteisön toiminnan, sekä oman itsensä kehittämiseksi.</text:p>
+   <text:p text:style-name="P11">Yhteisöä johdetaan, ja tekemisellä on joku vastuuhenkilö. Johtaja valitaan äänestämällä 2/3 enemmistökannatuksella, aina vuodeksi kerrallaan.</text:p>
+   <text:p text:style-name="P11">Yhteisö huolehtii jäsentensä tarpeista, sillä yhteisö on juuri niin vahva kuin sen heikoin lenkki.<text:line-break/><text:span text:style-name="T5">Yhteisö pyrkii löytämään jäsentensä vahvuudet ja kiinnostuksen kohteet ja kannustaa jäseniään osallistumaan vahvuuksiensa puitteissa.</text:span></text:p>
+   <text:p text:style-name="P11">Yhteisö toimii osana omavaraisverkostoa, tukien omavaraisverkoston muita yhteisöjä ja yksikköjä, ja tuottaa mediamateriaalia ja tiedotteita omasta tekemisestään yhteisökeskukselle, ja halutessaan myös sosiaaliseen mediaan.</text:p>
+   <text:p text:style-name="P12">Yhteisö on velvollinen hakemaan apua omavaraisverkostolta tai muulta toimijalta erilaisten konfliktitilanteiden ratkaisemiseksi.</text:p>
+   <text:p text:style-name="P12">Yhteisö sitoutuu toiminnassaan noudattamaan Suomen lakia.</text:p>
+   <text:p text:style-name="P12"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc122_4140937384"/><text:soft-page-break/>Mikä on yksikkö?<text:bookmark-end text:name="__RefHeading___Toc122_4140937384"/></text:h>
+   <text:p text:style-name="P14">Yksikkö koostuu vähintään kolmesta terveestä ja toimintakykyisestä aikuisesta, jotka asuvat puolen tunnin ajomatkan päässä toisistaan, <text:span text:style-name="T7">missä päin Suomea tahansa.</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T8">Yksikön</text:span> jäsenet tapaavat säännöllisesti ja viettävät <text:span text:style-name="T5">yhdessä </text:span>aikaa, samassa fyysisessä tilassa.</text:p>
+   <text:p text:style-name="P10">Y<text:span text:style-name="T8">ksikön</text:span> jäsenillä on selkeä viikko-, kuukausi-, ja vuosikalenteri <text:span text:style-name="T8">yksikön</text:span> tehtävien hoitamiseksi, sekä viikko-, kuukausi-, sekä vuositapaamiset y<text:span text:style-name="T8">ksikön</text:span> toiminnan, sekä oman itsensä kehittämiseksi.</text:p>
+   <text:p text:style-name="P15">Yksikön tehtävä on tukea yhteisöjä, sekä omavaraisverkostoa. Tuki voi olla mm. talkoisiin osallistumista, <text:span text:style-name="T8">uusien omavaraistelijoiden rekrytointia, poliittista aktivismia, mediatuotantoa, </text:span><text:span text:style-name="T10">toiminnan rahoittamista,</text:span><text:span text:style-name="T8"> jne.</text:span></text:p>
+   <text:p text:style-name="P13"><text:span text:style-name="T8">Yksikkö</text:span> sitoutuu toiminnassaan noudattamaan Suomen lakia.</text:p>
+   <text:p text:style-name="P13"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc124_4140937384"/>Mikä on yhteyshenkilö?<text:bookmark-end text:name="__RefHeading___Toc124_4140937384"/></text:h>
+   <text:p text:style-name="P16">Omavaraisverkostolla on useita yhteyshenkilöitä, joiden tehtävä on auttaa uusia omavaraisyhteisön kandidaatteja tutustumaan yhteisön tapoihin ja arvoihin, mahdollisuuksiin vaikuttaa, asua ja osallistua. Yhteyshenkilöt olevat mukana rekrytoinnissa uusien tulokkaiden arvioinnissa, sekä mentoroivat ja auttavat heitä löytämään oman paikkansa omavaraisverkostossa. Yhteyshenkilöt myös auttavat käytännön järjestelyissä, kuten muuttoapuna, tai tarvittavien lakiteknisten asioiden selvittelyssä, vuokranmaksu-, ja/tai omistusoikeusasioiden selvittelyssä.</text:p>
+   <text:p text:style-name="P16">Yhteyshenkilöt tapaavat myös jo rekrytoituja omavaraistelijoita ja huolehtivat heidän hyvinvoinnistaan.</text:p>
+   <text:p text:style-name="P17">Yhteyshenkilöiden tavoite on helpottaa uusien asukkaiden muuttamista niin paljon kuin mahdollista.</text:p>
+   <text:p text:style-name="P17"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc126_4140937384"/>Omavaraisyhteisöön muuttaminen<text:bookmark-end text:name="__RefHeading___Toc126_4140937384"/></text:h>
+   <text:p text:style-name="P17">Ennen muuttopäätöksen tekemistä, on tärkeää että kandidaatit käyvät ensin tutustumassa yhteisöön tai yhteisöihin, eikä ketään pidä päästää asumaan ilman tätä tärkeää tutustumisvaihetta.</text:p>
+   <text:p text:style-name="P17">Maailmalla on monia, jotka eivät osaa pitää itsestään huolta, ovat kodittomia ja epätoivoisia. Epätoivo on huono syy muuttaa omavaraisyhteisöön, vaan yhteisön asukkailta vaaditaan selväjärkisyyttä, sosiaalisia taitoja, oikeita ammattitaitoja, sekä sitoutumista yhteisiin tavoitteisiin ja sen uuden maailman luomiseen, jonka me kaikki niin kovasti haluamme nähdä.</text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P17">On tärkeää huolehtia, että yhteisöön mu<text:span text:style-name="T18">u</text:span>ttajille on heti tarjolla jotain mielekästä aktiviteetia ja he pääsevät heti mukaan yhteisön toimintaan sen täysipäisinä jäseninä. Omavaraisyhteisöllä ei ole mahdollisuutta liialliseen joutenoloon, vaan kaikkien tulokkaiden on ponnisteltava omavaraisuuden eteen.</text:p>
+   <text:p text:style-name="P17">Yhteisössä elämisen tavoite ei ole elää 1800-luvun kurjuudessa ilman moderneja apuvälineitä, vaan hyödyntää kaikki mahdolliset ja ehkä mahdotomatkin modernit tavat saada oma elantomme biodynaamisesti omasta maastamme.</text:p>
+   <text:p text:style-name="P17">Omavaraisverkoston tavoite on suojella meidän elämäntapaamme poliittisen aktivismin kautta, ja estää lainsäädännön etenemistä, millä rajoitetaan kansalaisten oikeutta omavaraisuuteen, <text:span text:style-name="T11">sekä pakotetaan hyväksymään ja elämään luonnotonta elämää.</text:span></text:p>
+   <text:p text:style-name="P17"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc128_4140937384"/>Kandidaatin kriteerit<text:bookmark-end text:name="__RefHeading___Toc128_4140937384"/></text:h>
+   <text:p text:style-name="P19">Etsimme omavaraisyhteisöön nimenomaan omilla jaloillaan seisovia, ahkeria ja positiivisia kansalaisia, joilla on selkeitä ammattitaitoja ja jotka pystyvät elättämään itsensä omalla työllään.<text:line-break/><text:span text:style-name="T12">Emme halua väkivaltaa ihannoivia, tai laittomaan toimintaa yllyttäviä asukkaita. Emme halua asukkaita, jotka tarpeettomasti ja räikeästi asettavat omavaraisverkoston toiminnan huonoon valoon.</text:span></text:p>
+   <text:p text:style-name="P20"><text:soft-page-break/><text:line-break/>Haluamme asukkaita, jotka ymmärtävät miksi tämä mitä teemme on välttämätöntä, jotka ymmärtävät globaalin median, erilaisten eliitin rahoittamien etujärjestöjen ja median hallitsemien poliitikkojen himon tuhota kansallinen identiteetti, kulttuuri ja sen tuoma ainutlaatuisuus maailmassa. Asukkaita, jotka ymmärtävät sen, miten historiaa on vääristelty ja sen seurauksena kansallismielisyys ja Eurooppalainen perintö on loattu.</text:p>
+   <text:p text:style-name="P20">Asukkaita, jotka ymmärtävät miten velkavankeudella, huonolla ruoalla, haitallisilla ja itsetuhoisilla tapa-addiktioilla ja lääkketieteellä, jonka tarkoituskaan ei ole parantaa, meitä pidetään ylikansallisen koneiston tyhmennettyinä orjina.</text:p>
+   <text:p text:style-name="P20"/>
+   <text:p text:style-name="P21">Tarvitsemme asukkaita, jotka ymmärtävät miten globaali eliitti haluaa estää kaltaistemme ryhmittymien muod<text:span text:style-name="T17">o</text:span>st<text:span text:style-name="T16">umi</text:span>sen, ja kuinka he käyvät <text:span text:style-name="T14">sosioekonomista</text:span> sotaa meidän <text:span text:style-name="T15">yhteisöjen, </text:span>yhteisöllisyyden ja yhteishengen tuhoamiseksi.</text:p>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18">Hyödynnämme myös täysimääräisesti yhteiskunnan sosiaalitukiverkoston tarjoamat mahdollisuudet asumisen ja elämisen kulujen kattamiseen. Ylemmyyden kokeminen tai hyveposeeraus <text:span text:style-name="T13">esi-isiemme työllä </text:span>ansaitsemie<text:span text:style-name="T25">n</text:span> sosiaalietuuksista kieltäytymisestä, on itsetuhoista, kun maahamme meidän verorahoillamme elätettäväksi tuodut muukalaiset hyötyvät ylitsepursuavista sosiaalietuuksista, tai kun yhteisiä verorahojamme törsätään holtittomasti monenlaisiin ihaniin globalistiutopioihin.</text:p>
+   <text:p text:style-name="P18"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc301_2915604760"/>Tilojen hankkiminen<text:bookmark-end text:name="__RefHeading___Toc301_2915604760"/></text:h>
+   <text:p text:style-name="P30">Maa on yhteisön tärkein voimavara ja sijoitus. Talkootyönä on mahdollista valmistaa nopeasti ja tehokkaasti ekologisista materiaaleista kestäviä, terveellisiä ja energiatehokkaita asumuksia, jolloin vanhojen rakennusten arvo on lähinnä toimia alustavana tukikohtana yhteisön laajentamiseksi.</text:p>
+   <text:p text:style-name="P30">Nykyisen kaltainen Suomessa harjoitettu uusiorakentaminen on omana työnä tekemiseen nähden kohtuuttoman kallista. 20 vuotta velkavankeutta oravanpyörässä maksaaksesi asuntosi sopii toisille. Vuosi tukkimetsässä perinnehirsirakentamisen merkeissa, käyttäen kierrätysrakennusmateriaaleja, on järkevämpää ja palkitsevampaa ajankäyttöä toisille.</text:p>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P36">Kunnan tuki on välttämätöntä yhteisön perustamiseksi. Ilman kunnan apua on vaikeaa pyörittää toimintaa laillisesti <text:span text:style-name="T28">ja kestävästi.</text:span></text:p>
+   <text:p text:style-name="P36">Kunta vaikuttaa tont<text:span text:style-name="T24">t</text:span>ien kaavoituksiin ja rakennuslupa-asioihin. Ilman kunnan lupaa ei pientä kylä-yhteisöä saa uudisrakentaa, <text:span text:style-name="T23">tai edes peruskorjata.</text:span></text:p>
+   <text:p text:style-name="P36">Kunta seuraa lapsiperheasioita ja seuraa mahdollisten kotikoulujen edistymistä.</text:p>
+   <text:p text:style-name="P37">Kunta hoitaa sosiaalietuuksia käsittelyä.</text:p>
+   <text:p text:style-name="P40">Yhteisön perustamisen konkretia kannattaa aloittaa suotuisan kuntailmapiirin löytämisellä. Suunnitelmia ei pidä edistää ennenkuin kunta suhtautuu omavaraisyhteisön perustamiseen myönteisesti, kokee että sille löytyy kaavoitusta ja maata ja näkee sen hyödyt kuntataloudessa, kuten positiivinen muuttovirtaus, kaupallinen liiketoiminta, onnellisuus ja ainakin alkuvaiheessa vielä, ainutlaatuisuus ja kulttuurillisuus,</text:p>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P30">Kaupungistumisen myötä koko maailma on täynnä autioituvaa maaseutua. Hajanaisesti myyntiin tulee irtonaisia maatiloja, metsätiloja ja mökkejä. Haaste yhteisön muodostumisen kannalta on <text:span text:style-name="T19">kohteiden</text:span> etäisyydet toisistaan.</text:p>
+   <text:p text:style-name="P30">Yhteisön tulee löytää yksi suuri yhtenäinen maa-alue, jota laajennetaan jatkuvasti. Maata tulisi olla 1ha jokaista aikuista kohden, jotta voidaan elää biodynaamisesti.</text:p>
+   <text:p text:style-name="P30">Haastetta voi lähestyä kartoittamalla valitsemasi paikkakunnan kiinteistöt/tontit osoitteesta <text:a xlink:type="simple" xlink:href="https://asiointi.maanmittauslaitos.fi/karttapaikka/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://asiointi.maanmittauslaitos.fi/karttapaikka/</text:a></text:p>
+   <text:p text:style-name="P30">ja keräämällä lisätietoja tontin omistajasta</text:p>
+   <text:p text:style-name="P30"><text:a xlink:type="simple" xlink:href="https://www.maanmittauslaitos.fi/kiinteistot/tietoa-kiinteistoista/selvita-kiinteiston-omistaja" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.maanmittauslaitos.fi/kiinteistot/tietoa-kiinteistoista/selvita-kiinteiston-omistaja</text:a></text:p>
+   <text:p text:style-name="P30"><text:soft-page-break/>Tämän jälkeen kontaktoidaan omistajia ja kohteliaasti ja hyvässä hengessä kysytään myyntihalukkuutta biodynaamisen omavaraiselämän mahdollistamiseksi.</text:p>
+   <text:p text:style-name="P30">Omavaraisverkosto voi lisätä maanomistajan omaan sisäiseen myyntirekisteriinsä, maanomistajan suostumuksella, jolloin hänen omistuksilleen voi löytyä helpommin ostajia.</text:p>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P38">Autioituvista kylistä on myös mahdollista ostaa vaikka kokonaisia rivitaloja ja muita kunnan kiinteistöjä kohtuuhintaan. Yksi vaihtoehto on uudisasuttaa autioitunut kylä.<text:line-break/>Tässä haasteena on käytettyjen rakennusten korjaaminen omavaraisesti ja ilman korkeaa ammattiosaamista.</text:p>
+   <text:p text:style-name="P30"/>
+   <text:h text:style-name="P27" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc118_41409373841"/><text:span text:style-name="T20">Toinen</text:span> vaihe: <text:span text:style-name="T20">Poliittinen vaikuttaminen</text:span><text:bookmark-end text:name="__RefHeading___Toc118_41409373841"/></text:h>
+   <text:p text:style-name="P32">Markkinointi, tiedottaminen, aktivismi, poliittinen vaikuttaminen</text:p>
+   <text:p text:style-name="P32"/>
+   <text:h text:style-name="P27" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc118_41409373842"/><text:span text:style-name="T20">Kolmas</text:span> vaihe: <text:span text:style-name="T20">Taloudellinen yhteistyö</text:span><text:bookmark-end text:name="__RefHeading___Toc118_41409373842"/></text:h>
+   <text:p text:style-name="P32">Myydään hyödykkeitä yhteisön ulkopuolelle.</text:p>
+   <text:p text:style-name="P32"/>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc303_2915604760"/>Yhteisön talous ja johtaminen<text:bookmark-end text:name="__RefHeading___Toc303_2915604760"/></text:h>
+   <text:p text:style-name="P31">Maan omistajuuden jakamiseen omavaraisverkosto, sekä yhteisöt, tarvitsevat jonkun laillisen kehyksen. <text:span text:style-name="T21">Omavaraisverkosto toimii voittoa tavoittelemattomana osuuskuntana, kun taas <text:s/>yhteisöillä on </text:span><text:span text:style-name="T22">vapaus valita omat hallintomuotonsa</text:span><text:span text:style-name="T21">.</text:span></text:p>
+   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P34">Omavaraisverkosto</text:p>
+   <text:p text:style-name="P34">Tekstiä…</text:p>
+   <text:p text:style-name="P43">Sosiokratia <text:a xlink:type="simple" xlink:href="https://www.valtiolla.fi/sosiokratia-on-lujempaa-kuin-demokratia/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.valtiolla.fi/sosiokratia-on-lujempaa-kuin-demokratia/</text:a></text:p>
+   <text:p text:style-name="P34"/>
+   <text:p text:style-name="P34">Vuokran maksu</text:p>
+   <text:p text:style-name="P35">Jokainen asukas, jolla on oikeus asumistukeen ja muihin sosiaalietuuksiin, ovat vuokrasuhteessa yhteisölle. Yhteisön asumukset on kaavoitettu ympärivuotisiksi asunnoiksi.</text:p>
+  </office:text>
+ </office:body>
+</office:document>
